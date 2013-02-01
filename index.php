@@ -1,0 +1,2 @@
+<?
+echo "testing GIT";
